@@ -1,3 +1,3 @@
 # jinsanpang
-hello
-My code on the leetcode!
+hello n/
+This is my code on the leetcode!
